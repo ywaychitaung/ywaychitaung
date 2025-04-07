@@ -1,5 +1,4 @@
-## Hi there 👋
+Please consider supporting earthquake relief efforts in Myanmar. Any help is
+truly appreciated.
 
-- 🔭 I’m currently working on ASP .NET Core, Microsoft SQL Server and Angular, Java Spring Boot, MySQL and React.js, Laravel, PostgreSQL and Vue.js. For CSS framework I used Tailwind CSS across all projects. For cross platform development, I choose Flutter over React Native.
-- 🧑‍💻 I’m currently learning Express.js and Adonis.js.
-- 📫 How to reach me: Checkout my website: https://ywaychitaung.dev
+[🔗 Donate on GoFundMe](https://www.gofundme.com/f/h7fg8y-earthquake-relief-for-myanmar-urgent-support-needed?attribution_id=sl%3Ac6bd01fa-3cd8-4bc0-b849-163d0c74ee5e)
